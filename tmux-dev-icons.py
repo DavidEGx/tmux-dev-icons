@@ -13,6 +13,7 @@ icons = {
     "git" : "",
     "fzf" : "",
     "bat" : "",
+    "mysql: "",
 }
 
 colours = {
@@ -28,6 +29,7 @@ colours = {
     "git" : "#e14528",
     "fzf" : "#ee0058",
     "bat" : "#323284",
+    "mysql": "#3e6e93",
 }
 
 pane_title = sys.argv[1]
